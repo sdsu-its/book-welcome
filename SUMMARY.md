@@ -1,3 +1,16 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Installation](install.md)
+* [Data Sync](data-sync.md)
+* [Modules](modules/README.md)
+    + [Alerts](modules/alerts.md)
+    + [FollowUp](modules/followup.md)
+    
+---
+# End User Guide
+* [For Visitors](users/clients.md)
+* [For Staff](users/staff.md)
+* [For Administrators](users/admin.md)
+
+---
+* [DDL/ERD](ddl.md)

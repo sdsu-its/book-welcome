@@ -1,3 +1,5 @@
-# My Awesome Book
+Welcome Visitor Management System
+=================================
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Track visitors and their primary objective for their visit to your office, co-working space, workshop, or other open space. After their visit, poll guests with tailored survey implements to allow for continuous improvement of your space and/or services. Welcome also allows for tracking of hourly employees, like you might find at a University Space.
+
