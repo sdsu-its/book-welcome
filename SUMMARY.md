@@ -5,6 +5,7 @@
 * [Introduction](README.md)
 * [Installation](install.md)
 * [Data Sync](data-sync.md)
+* [Interface Configuration](ui-conf.md)
 * [Modules](modules/README.md)
   * [Alerts](modules/alerts.md)
   * [FollowUp](modules/followup.md)
