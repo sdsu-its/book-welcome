@@ -17,6 +17,6 @@
 
 ## Development
 
-* [API Documentation](https://sdsu-its.gitbooks.io/api-fit-welcome/content/)
 * [DDL/ERD](ddl.md)
+* [API Documentation](https://sdsu-its.gitbooks.io/api-fit-welcome/content/)
 
