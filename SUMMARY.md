@@ -1,23 +1,25 @@
-# Summary
+# Table of contents
+
+* [Introduction](README.md)
 
 ## Configuration
 
-* [Introduction](README.md)
-* [Installation](install.md)
-* [Data Sync](data-sync.md)
-* [Interface Configuration](ui-conf.md)
-* [Modules](modules/README.md)
-  * [Alerts](modules/alerts.md)
-  * [FollowUp](modules/followup.md)
+* [Introduction](configuration/introduction.md)
+* Installation
+* Data Sync
+* Interface Configuration
+* Modules
+  * Alerts
+  * FollowUp
 
 ## End User Guide
 
-* [For Visitors](users/clients.md)
-* [For Staff](users/staff.md)
-* [For Administrators](users/admin.md)
+* [For Visitors](end-user-guide/for-visitors.md)
+* [For Staff](end-user-guide/for-staff.md)
+* For Administrators
 
 ## Development
 
-* [DDL/ERD](ddl.md)
+* DDL/ERD
 * [API Documentation](https://sdsu-its.gitbooks.io/api-fit-welcome/content/)
 
